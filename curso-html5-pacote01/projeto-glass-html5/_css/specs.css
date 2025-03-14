@@ -1,0 +1,15 @@
+section#conteudo {
+    width: 1000px;
+    margin: auto;
+}
+
+iframe#frame-spec {
+    width: 400px;
+    height: 260px;
+    border: none;
+    /*overflow: hidden;*/
+}
+
+/*iframe#frame-spec::-webkit-scrollbar {
+    display: none;
+}*/ /*FOI ACRESCENTADO ESSA FUNÇÃO NA PRÓPRIA PÁGINA google-glass.html, POIS NÃO ESTAVA FUNCIONANDO A FUNÇÃO COLOCANDO NESTE ARQUIVO AQUI*/
